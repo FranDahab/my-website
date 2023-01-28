@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Website</title>
+</head>
+
+<body>
+    <h1>Welcome to my website</h1>
+
+    <h2>Bio</h2>
+    <p>I am an undergraduate student in Physics. I am currently studying at XYZ University and am interested in researching XYZ topic.</p>
+
+    <h2>CV</h2>
+    <p>You can download my CV <a href="path/to/cv.pdf">here</a>.</p>
+
+    <h2>Contacts</h2>
+    <p>You can reach me at my email address: <a href="mailto:myemail@example.com">myemail@example.com</a> or by phone at 555-555-5555.</p>
+</body>
+
+</html>
